@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="h">
+
+    <item> Ostriches can run more than horses</item>
+    <item>The gold medals of the Olympic Games are made of silver</item>
+    <item>You were born with 300 bones, but by adulthood will have only 206</item>
+    <item>Some bamboo plants can grow up to a meter a day</item>
+    <item>The state of Florida is bigger than England</item>
+    <item>On average it takes about 66 days to make a new habit</item>
+    <item>Mammoths were following walking on earth in the time in which the great pyramids were built</item>
+    <item>Some penguins can jump 2-3 feet above the water</item>
+
+
+    </string-array>
+</resources>

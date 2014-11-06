@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="h">
+
+    <item> Las avestruces pueden correr mas que los caballos</item>
+    <item>Las medallas de oro de los juegos olimpicos estan hechas de plata.</item>
+    <item>Naciste con 300 huesos, pero en la edad adulta tendras solo 206.</item>
+    <item>Algunas plantas de bambu pueden crecer hasta un metro al dia</item>
+    <item>El estado de Florida es mas grande que Inglaterra</item>
+    <item>De media se tarda unos 66 dias en tomar un nuevo habito</item>
+    <item>Los mamuts seguian caminando sobre la tierra en la epoca en la que se construyeron las grandes piramides</item>
+    <item>Algunos pingüinos pueden saltar de 2 a 3 metros por encima del agua</item>
+
+
+    </string-array>
+</resources>
